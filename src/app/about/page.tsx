@@ -3,7 +3,7 @@ const slogan = 'A developer by trade, fueled by travel, healed by animals, dream
 export default function About() {
   return (
     <div>
-        about me
+        about me NEW!
     </div>
   );
 }
